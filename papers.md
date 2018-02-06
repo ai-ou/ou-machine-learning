@@ -19,7 +19,7 @@ The hippocampus represents states by the expected following states
 
 ##### **DyNet: The Dynamic Neural Network Toolkit, CMU et al., 2017** ([arXiv](https://arxiv.org/pdf/1701.03980.pdf))
 
-##### **Concrete Dropout, NIPS 2017:** ([NIPS](https://papers.nips.cc/paper/6949-concrete-dropout.pdf))
+##### **Concrete Dropout, NIPS 2017** ([NIPS](https://papers.nips.cc/paper/6949-concrete-dropout.pdf))
 
 ##### **Are GANs Created Equal? A Large-Scale Study, Google Brain, Nov 2017** ([arXiv](https://arxiv.org/pdf/1711.10337.pdf))
 
