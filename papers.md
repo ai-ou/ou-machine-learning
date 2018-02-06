@@ -14,3 +14,52 @@ Neural 'capsules' that dynamically route their outputs by agreement
 ##### **The Hippocampus as a Predictive Map**
 The hippocampus represents states by the expected following states
 ([bioRxiv](https://www.biorxiv.org/content/early/2016/12/28/097170))
+
+#### **Segmental Recurrent Neural Networks**
+[arXiv](https://arxiv.org/pdf/1511.06018.pdf)
+
+Segmental RNNs are now implemented in DyNet, so perhaps we can discuss
+it too. DyNet, like PyTorch, builds the computation graph dynamically.
+https://github.com/clab/dynet/tree/master/examples/segmental-rnn
+
+DyNet: The Dynamic Neural Network Toolkit, CMU et al., 2017
+https://arxiv.org/pdf/1701.03980.pdf
+http://dynet.io/
+
+Concrete Dropout, NIPS 2017:
+https://papers.nips.cc/paper/6949-concrete-dropout.pdf
+
+Are GANs Created Equal? A Large-Scale Study, Google Brain, Nov 2017
+https://arxiv.org/pdf/1711.10337.pdf
+
+Visual Interaction Networks, Deep Mind 2017
+https://arxiv.org/pdf/1706.01433.pdf
+
+A simple neural network module for relational reasoning, Deep Mind 2017
+https://arxiv.org/pdf/1706.01427.pdf
+
+Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models
+with KL-control, ICML 2017
+https://arxiv.org/pdf/1611.02796.pdf
+
+DeepBach: a Steerable Model for Bach Chorales Generation, ICML 2017
+https://arxiv.org/pdf/1612.01010.pdf
+
+Language to Logical Form with Neural Attention, ACL 2016
+http://www.aclweb.org/anthology/P16-1004
+
+Learning Structured Natural Language Representations for Semantic
+Parsing, ACL 2017
+http://www.aclweb.org/anthology/P17-1005
+
+A Context-aware Attention Network for Interactive Question Answering, KDD 2017
+https://arxiv.org/pdf/1612.07411.pdf
+
+Attentive Interactive Neural Networks for Answer Selection in
+Community Question Answering, AAAI 2017 (I proposed this one because
+it is simpler than memory networks, yet it does better).
+https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14611/14144
+
+Seq2SQL: Generating Structured Queries from Natural Language using
+Reinforcement Learning, Salesforce 2017
+https://arxiv.org/pdf/1709.00103.pdf
